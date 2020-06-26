@@ -44,6 +44,8 @@
 <img src="images/5_1.png">
 <img src="images/5_2.png">
 <img src="images/5_3.png">
+<img src="images/5_4.png">
+<img src="images/5_5.png">
 
 ## Additional information
 
